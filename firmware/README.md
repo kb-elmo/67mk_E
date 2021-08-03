@@ -1,6 +1,6 @@
 # 67mk_E - Vial-QMK
 
-![67mk_e](https://i.imgur.com/uqFRM2Gl.jpg)
+![67mk_e](https://i.imgur.com/EnMy6IYl.jpg)
 
 A simple "no frills" drop-in replacement PCB for the KBDfans 67mkII / 67lite
 

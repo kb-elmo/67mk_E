@@ -4,7 +4,7 @@
 
 ### A simple "no frills" drop-in replacement PCB for the KBDfans 67mkII / 67lite
 
-<img src="https://i.imgur.com/uqFRM2G.jpg" alt="header" width="800"/>
+<img src="https://i.imgur.com/EnMy6IY.jpg" alt="header" width="800"/>
 
 ---
 
