@@ -8,10 +8,10 @@ The plates are available in fixed ANSI and fixed ISO version, both with support 
 The possible layouts are listed below.
 
 #### ANSI plate
-<img src="KLE_ANSI.png" alt="ansiplate" width="800"/>
+<img src="KLE-ANSI.png" alt="ansiplate" width="800"/>
 
 #### ISO plate
-<img src="KLE_ISO.png" alt="isoplate" width="800"/>
+<img src="KLE-ISO.png" alt="isoplate" width="800"/>
 
 ---
 
