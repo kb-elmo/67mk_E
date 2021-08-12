@@ -1,7 +1,5 @@
 # KBD67lite platefiles
 
----
-
 These platefiles were modified from the original KBDfans ones and provided to me by tiggggr.  
 The plates are available in fixed ANSI and fixed ISO version, both with support for split backspace and both 6.25u and 7u bottom rows.
 
