@@ -2,7 +2,7 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]<a href="https://ko-fi.com/kb_elmo"><img src="https://i.imgur.com/9T0bvqO.png" alt="kofibadge" align="right"/></a>
 
-## This project is completed and is not getting updated anymore.
+## This project is completed and will not get updated anymore.
 
 ### A simple "no frills" drop-in replacement PCB for the KBDfans 67mkII / 67lite
 
